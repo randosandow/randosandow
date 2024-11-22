@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @randosandow and I'm 12
-- 👀 I’m interested in coding and game development 
-- 🌱 I’m currently learning python- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me: look in your walls
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm chill
+- Heloo rando_sando or randosandow I'm really into coding and game development
+- I like sipping tea and love love love; christmas 🎅
+- bye!!
 
 <!---
 randosandow/randosandow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
