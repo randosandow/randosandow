@@ -1,5 +1,3 @@
 War thunder is life
+Im a almost 12 year old coder. I've always liked computers and coding so yeah..
 
-randosandow/randosandow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
