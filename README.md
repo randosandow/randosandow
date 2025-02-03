@@ -4,3 +4,4 @@ Im a almost 12 year old coder. I've always liked computers and coding. I also do
 
 But sometimes you just gotta ask yourself a weird question like: 
 What if your meat got chopped off?
+But also hasn't the shooter done these drills before? 
