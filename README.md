@@ -4,4 +4,3 @@ Im almost 15. I know a bit of python and C++. I've always liked computers and ga
 I also do orchestra if you care <br>
 
 
-
